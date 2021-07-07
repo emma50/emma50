@@ -9,7 +9,7 @@ ___
 #### Backend
 - Nodejs | Expressjs | EJS
 #### Testing 
-- Mocha | Chai | Chai-http | NYC | Jest 
+- Mocha | Chai | Chai-http | nyc | Jest 
 #### Database
 - Postgresql | Sqlite | MongoDB | Redis | MySql | DynamoDB
 #### CI/CD
