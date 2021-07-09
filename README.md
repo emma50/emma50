@@ -1,13 +1,39 @@
-### About
-- 👋 Hi, I’m @emma50 (Okwuidegbe Emmanuel)
-- 👀 I’m interested in building new software solutions and learning new things
-- 🌱 I’m currently learning Graphql and the Google Cloud Infrastructure
+<img src="https://github.com/emma50/emma50/blob/main/header.png" width="100%"/>
 
+# Hello, folks! 
+
+My name is Okwuidegbe Emmanuel and I'm a software developer. I'm from Nigeria, living in Lagos. 
+
+<br>
+
+### About Me
+- 👀 &nbsp; I’m interested in building software solutions and learning new things
+- 🔭 &nbsp; I’m a full stack engineer
+- 🌱 &nbsp; Enthusiast of technology .
+
+<br>
+
+<h3>🛠 Technology & Tools</h3>
+
+- 🌐 &nbsp; JavaScript | React | Bootstrap | HTML | CSS | Redux | Nodejs | Expressjs
+- 🛢 &nbsp; MySQL | Firebase | Postgres | MongoDB | Redis
+- 🔧 &nbsp; Visual Studio code | Git | Linux | Windows
+- 🖥 &nbsp; Travis-ci | codeclimate | coveralls | Pivotal-tracker
+- 🔭 &nbsp; Docker | Mocha | Jest | Chai | Chai-http | Nyc
+
+<br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=emma50&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 
+<br>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emma50&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515)
 
-![Linkedin profile(https://www.linkedin.com/in/emmanuel-okwuidegbe-0953ab153/)](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+<br>
 
-![Gmail(https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
+
+<p align="center">  
+&nbsp; <a href="https://www.linkedin.com/in/emmanuel-okwuidegbe-0953ab153/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:okwuidegbeemmanuel@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
