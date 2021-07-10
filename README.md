@@ -17,7 +17,7 @@ My name is Okwuidegbe Emmanuel and I'm a software developer. I'm from Nigeria, l
 
 - 🌐 &nbsp; JavaScript | React | Bootstrap | HTML | CSS | Redux | Nodejs | Expressjs
 - 🛢 &nbsp; MySQL | Firebase | Postgres | MongoDB | Redis
-- 🔧 &nbsp; Visual Studio code | Git | Linux | Windows
+- 🔧 &nbsp; Git | Linux | Windows
 - 🖥 &nbsp; Travis-ci | codeclimate | coveralls | Pivotal-tracker
 - 🔭 &nbsp; Docker | Mocha | Jest | Chai | Chai-http | Nyc
 
