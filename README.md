@@ -8,7 +8,7 @@ My name is Okwuidegbe Emmanuel and I'm a fullstack developer. I'm from Nigeria a
 
 ### About Me
 - 👀 &nbsp; I’m interested in building software solutions and learning new things
-- 🔭 &nbsp; I’m a full stack engineer
+- 🔭 &nbsp; I’m a full stack developer
 - 🌱 &nbsp; Enthusiast of technology .
 
 <br>
