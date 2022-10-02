@@ -19,7 +19,7 @@ My name is Okwuidegbe Emmanuel and I'm a fullstack developer. I'm from Nigeria a
 - 🛢 &nbsp; MySQL | Firebase | Postgres | MongoDB | Redis
 - 🔧 &nbsp; Git | Linux | Windows
 - 🖥 &nbsp; Travis-ci | codeclimate | coveralls | Pivotal-tracker
-- 🔭 &nbsp; Docker | Mocha | Jest | Chai | Chai-http | Nyc
+- 🔭 &nbsp; Docker | Kubernetes | Mocha | Jest | Chai | Chai-http | Nyc
 
 <br>
 
