@@ -2,7 +2,7 @@
 
 # Hello World! 
 
-My name is Okwuidegbe Emmanuel and I'm a fullstack developer. I'm from Nigeria and I live in Lagos. 
+My name is Okwuidegbe Emmanuel. I'm a fullstack developer who lives in Lagos, Nigeria. 
 
 <br>
 
