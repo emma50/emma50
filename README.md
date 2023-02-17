@@ -14,7 +14,7 @@ My name is Okwuidegbe Emmanuel. I'm a fullstack web developer living in Lagos, N
 
 <h3>🛠 Technology & Tools</h3>
 
-- 🌐 &nbsp; JavaScript | Typescript | Reactjs | Nextjs | HTML | CSS | SCSS | Redux | Nodejs | Expressjs
+- 🌐 &nbsp; JavaScript | Typescript | Reactjs | Nextjs | HTML | CSS | SCSS/SASS | Redux | Nodejs | Expressjs
 - 🛢 &nbsp; Firebase | Postgresql | MongoDB | Redis
 - 🔧 &nbsp; Git | Linux | Windows
 - 🖥 &nbsp; Travis-ci | Github Actions
