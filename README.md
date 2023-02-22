@@ -1,6 +1,6 @@
 <!-- <img src="https://github.com/emma50/emma50/blob/main/header.png" width="100%"/> -->
 
-# Welcome to my world! 
+# Hello World! 
 
 My name is Okwuidegbe Emmanuel. I'm a fullstack web developer living in Lagos, Nigeria. 
 
