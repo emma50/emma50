@@ -7,7 +7,7 @@ My name is Okwuidegbe Emmanuel. I'm a fullstack web developer and I live in Lago
 <br>
 
 ### About Me
-- 👀 &nbsp; I’m interested in building software solutions and I love learning something new
+- 👀 &nbsp; I’m interested in building software solutions and I love learning
 - 🔭 &nbsp; I’m a full stack developer
 
 <br>
