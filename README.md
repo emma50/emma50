@@ -17,7 +17,7 @@ My name is Okwuidegbe Emmanuel. I'm a fullstack web developer and I live in Lago
 - 🌐 &nbsp; JavaScript | Typescript | Reactjs | Nextjs | HTML | CSS | SCSS/SASS | Redux | Nodejs | Expressjs
 - 🛢 &nbsp; Firebase | Postgresql | MongoDB | Redis
 - 🔧 &nbsp; Git | Linux | Windows
-- 🖥 &nbsp; Travis-ci | Github Actions
+- 🖥 &nbsp; Travisci | Github Actions
 - 🔭 &nbsp; Docker | Kubernetes | Skaffold | Mocha | Jest | Chai | Chai-http | Nyc
 
 <br>
