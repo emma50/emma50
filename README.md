@@ -26,7 +26,7 @@ My name is Okwuidegbe Emmanuel. I'm a fullstack web developer living in Lagos, N
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma50)](https://github.com/emma50/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emma50&langs_count=8)](https://github.com/emma50/github-readme-stats)
 
 <br>
 
