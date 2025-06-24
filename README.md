@@ -2,13 +2,13 @@
 
 # Hello World! 
 
-My name is Okwuidegbe Emmanuel. I'm a fullstack web developer living in Lagos, Nigeria. 
+My name is Okwuidegbe Emmanuel. I'm a frontend engineer living in Lagos, Nigeria. 
 
 <br>
 
 ### About Me
 - 👀 &nbsp; I’m interested in building software solutions and I also believe learning is a life long process...
-- 🔭 &nbsp; I’m a full stack developer
+- 🔭 &nbsp; I’m a frontend engineer
 
 <br>
 
@@ -18,7 +18,7 @@ My name is Okwuidegbe Emmanuel. I'm a fullstack web developer living in Lagos, N
 - 🛢 &nbsp; Firebase | Postgresql | MongoDB | Redis
 - 🔧 &nbsp; Git | Linux | Windows
 - 🖥 &nbsp; Travisci | Github Actions
-- 🔭 &nbsp; Docker | Kubernetes | Skaffold | Mocha | Jest | Chai | Chai-http | Nyc | Enzyme | React-test library
+- 🔭 &nbsp; Docker | Mocha | Jest | Chai | Chai-http | Nyc | Enzyme | React-test library
 
 <br>
 
