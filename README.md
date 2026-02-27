@@ -1,6 +1,6 @@
 # Hi 👋, I'm Okwuidegbe Emmanuel
 
-### A Frontend Focused Fullstack Web developer
+### A Frontend Engineer focued on anything Web
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emma50" alt="emma50" /></a> </p>
 
